@@ -43,29 +43,6 @@ _When I'm not building software, you'll probably find me learning something new,
 
 ---
 
-## Interests
-
-- Backend Engineering
-- Systems Programming
-- Artificial Intelligence
-- Distributed Systems
-- Developer Experience
-- Performance Engineering
-- Open Source
-
----
-
-## Currently Learning
-
-- Advanced Rust
-- Distributed Systems
-- Compiler Design
-- Operating Systems
-- Kubernetes
-- Modern AI Infrastructure
-
----
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikpathania)
