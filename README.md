@@ -1,9 +1,5 @@
-# Hey, I'm Ritik Pathania 👋
+# Hey, I'm Ritik Pathania 👋 <img align="right" src="./assets/koi.gif" alt="Animated koi fish swimming" width="48" height="48">
 **Software Engineer · Backend · AI Systems · Rust & Go Enthusiast**
-
-<p align="center">
-  <img src="./assets/koi.gif" alt="Animated koi fish swimming" width="256">
-</p>
 
 ---
 
