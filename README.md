@@ -1,6 +1,10 @@
 # Hey, I'm Ritik Pathania 👋
 **Software Engineer · Backend · AI Systems · Rust & Go Enthusiast**
 
+<p align="center">
+  <img src="./assets/koi.gif" alt="Animated koi fish swimming" width="256">
+</p>
+
 ---
 
 I'm a software engineer passionate about building scalable backend systems, developer tools, and AI-powered applications.
